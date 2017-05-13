@@ -3,5 +3,5 @@ I am editing the file
 this is the first file
 this is the first file in t directory
 try the diff 
-unstaged file
+unstaged fileFG
 trying the fetch 
