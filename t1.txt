@@ -4,3 +4,4 @@ this is the first file
 this is the first file in t directory
 try the diff 
 unstaged file
+trying the fetch 
